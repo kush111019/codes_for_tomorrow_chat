@@ -6,7 +6,7 @@ In order to run the apis first clone the project and then run the following comm
 3) npm run dev
 
 
-In order to do test the chatting logic start the server first by giving the following command
+In order to do test the chatting logic start the server first by giving the following commands from the root directory of the project folder
 npm run dev
 then open more than one cmd pannel and run the following command
 npx tsc test-client.ts --outDir dist
